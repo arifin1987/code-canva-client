@@ -1,0 +1,90 @@
+[
+  {
+    "image": "https://img.freepik.com/premium-psd/workshop-mock-up-design-with-laptop-device_23-2150240722.jpg?w=740",
+    "price": { "$numberDouble": "999.99" },
+    "name": "Samsung Galaxy Book Pro",
+    "configuration": "Intel Core i5, 8GB RAM, 512GB SSD",
+    "product_rating": { "$numberDouble": "4.3" },
+    "brand": "Samsung",
+    "flash_sale": false,
+    "top_category": false,
+    "description": "Laptop Brand - Lenovo, Laptop Series - Legion, Laptop Model - Lenovo Legion Slim 5i 16IRH8, Processor Brand - Intel, Processor Type - Core i5, Processor Generation - 13th (Intel), Processor Model - Core i5 13500H, Processor Base Frequency - Not Applicable, Performance-Core Base Frequency - 2.60GHz, Efficient-Core Base Frequency - 1.90GHz, Processor Max Turbo Frequency - 4.70GHz, Performance-Core Max Turbo Frequency - 4.70GHz, Efficient-Core Max Turbo Frequency - 3.50GHz, Processor Core - 12, Performance-Cores - 4, Efficient-Cores - 8, Processor Thread - 16, Processor Cache - 18MB, Chipset - Intel"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/female-hand-typing-keyboard-laptop_1150-15742.jpg?t=st=1716060200~exp=1716063800~hmac=9edf48b719dc99d7c3adc42252ce1d9ff5591a0e004eb705cc33902ad16f9df0&w=740",
+    "price": { "$numberDouble": "999.99" },
+    "name": "Dell XPS 13",
+    "configuration": "Intel Core i7, 16GB RAM, 512GB SSD",
+    "product_rating": { "$numberDouble": "4.8" },
+    "brand": "Dell",
+    "flash_sale": true,
+    "top_category": true,
+    "description": "Laptop Brand - Lenovo, Laptop Series - Legion, Laptop Model - Lenovo Legion Slim 5i 16IRH8, Processor Brand - Intel, Processor Type - Core i5, Processor Generation - 13th (Intel), Processor Model - Core i5 13500H, Processor Base Frequency - Not Applicable, Performance-Core Base Frequency - 2.60GHz, Efficient-Core Base Frequency - 1.90GHz, Processor Max Turbo Frequency - 4.70GHz, Performance-Core Max Turbo Frequency - 4.70GHz, Efficient-Core Max Turbo Frequency - 3.50GHz, Processor Core - 12, Performance-Cores - 4, Efficient-Cores - 8, Processor Thread - 16, Processor Cache - 18MB, Chipset - Intel"
+  },
+  {
+    "image": "https://img.freepik.com/free-psd/laptop-mock-up_1310-197.jpg?w=740&t=st=1716061579~exp=1716062179~hmac=195cd91dda339961dc07aa44f2dc8efce4b2323c061107bff444e765b8c43c98",
+    "price": { "$numberDouble": "1199.99" },
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "configuration": "Intel Core i7, 16GB RAM, 1TB SSD",
+    "product_rating": { "$numberDouble": "4.7" },
+    "brand": "Lenovo",
+    "flash_sale": false,
+    "top_category": true,
+    "description": "Laptop Brand - Lenovo, Laptop Series - Legion, Laptop Model - Lenovo Legion Slim 5i 16IRH8, Processor Brand - Intel, Processor Type - Core i5, Processor Generation - 13th (Intel), Processor Model - Core i5 13500H, Processor Base Frequency - Not Applicable, Performance-Core Base Frequency - 2.60GHz, Efficient-Core Base Frequency - 1.90GHz, Processor Max Turbo Frequency - 4.70GHz, Performance-Core Max Turbo Frequency - 4.70GHz, Efficient-Core Max Turbo Frequency - 3.50GHz, Processor Core - 12, Performance-Cores - 4, Efficient-Cores - 8, Processor Thread - 16, Processor Cache - 18MB, Chipset - Intel"
+  },
+  {
+    "image": "https://img.freepik.com/premium-psd/realistic-macbook-pro-laptop-16-inch-screen-mockup-template_384205-870.jpg?w=740",
+    "price": { "$numberDouble": "649.99" },
+    "name": "Asus VivoBook S14",
+    "configuration": "Intel Core i5, 8GB RAM, 256GB SSD",
+    "product_rating": { "$numberInt": "4" },
+    "brand": "Asus",
+    "flash_sale": false,
+    "top_category": true,
+    "description": "Laptop Brand - Lenovo, Laptop Series - Legion, Laptop Model - Lenovo Legion Slim 5i 16IRH8, Processor Brand - Intel, Processor Type - Core i5, Processor Generation - 13th (Intel), Processor Model - Core i5 13500H, Processor Base Frequency - Not Applicable, Performance-Core Base Frequency - 2.60GHz, Efficient-Core Base Frequency - 1.90GHz, Processor Max Turbo Frequency - 4.70GHz, Performance-Core Max Turbo Frequency - 4.70GHz, Efficient-Core Max Turbo Frequency - 3.50GHz, Processor Core - 12, Performance-Cores - 4, Efficient-Cores - 8, Processor Thread - 16, Processor Cache - 18MB, Chipset - Intel"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/laptop-with-blank-screen-smartphone-brown-fabric-background-3d-rendering_1142-45766.jpg?t=st=1716061833~exp=1716065433~hmac=3395660a6ed6195057544e6df9dc085fd96acf2c191df93d74e7399be6bc3ab2&w=740",
+    "price": { "$numberDouble": "1299.99" },
+    "name": "Lenovo Yoga 9i",
+    "configuration": "Intel Core i7, 16GB RAM, 1TB SSD",
+    "product_rating": { "$numberDouble": "4.9" },
+    "brand": "Lenovo",
+    "flash_sale": false,
+    "top_category": true,
+    "description": "Laptop Brand - Lenovo, Laptop Series - Legion, Laptop Model - Lenovo Legion Slim 5i 16IRH8, Processor Brand - Intel, Processor Type - Core i5, Processor Generation - 13th (Intel), Processor Model - Core i5 13500H, Processor Base Frequency - Not Applicable, Performance-Core Base Frequency - 2.60GHz, Efficient-Core Base Frequency - 1.90GHz, Processor Max Turbo Frequency - 4.70GHz, Performance-Core Max Turbo Frequency - 4.70GHz, Efficient-Core Max Turbo Frequency - 3.50GHz, Processor Core - 12, Performance-Cores - 4, Efficient-Cores - 8, Processor Thread - 16, Processor Cache - 18MB, Chipset - Intel"
+  },
+  {
+    "image": "https://img.freepik.com/premium-psd/laptop-mockup_358279-2914.jpg?w=740",
+    "price": { "$numberDouble": "749.99" },
+    "name": "Dell Inspiron 15",
+    "configuration": "Intel Core i5, 8GB RAM, 512GB SSD",
+    "product_rating": { "$numberDouble": "4.2" },
+    "brand": "Dell",
+    "flash_sale": false,
+    "top_category": true,
+    "description": "Laptop Brand - Lenovo, Laptop Series - Legion, Laptop Model - Lenovo Legion Slim 5i 16IRH8, Processor Brand - Intel, Processor Type - Core i5, Processor Generation - 13th (Intel), Processor Model - Core i5 13500H, Processor Base Frequency - Not Applicable, Performance-Core Base Frequency - 2.60GHz, Efficient-Core Base Frequency - 1.90GHz, Processor Max Turbo Frequency - 4.70GHz, Performance-Core Max Turbo Frequency - 4.70GHz, Efficient-Core Max Turbo Frequency - 3.50GHz, Processor Core - 12, Performance-Cores - 4, Efficient-Cores - 8, Processor Thread - 16, Processor Cache - 18MB, Chipset - Intel"
+  },
+  {
+    "image": "https://img.freepik.com/premium-psd/relaxed-man-using-laptop_23-2147792369.jpg?w=740",
+    "price": { "$numberDouble": "799.99" },
+    "name": "HP Envy 13",
+    "configuration": "Intel Core i5, 8GB RAM, 512GB SSD",
+    "product_rating": { "$numberDouble": "4.4" },
+    "brand": "HP",
+    "flash_sale": true,
+    "top_category": false,
+    "description": "Laptop Brand - Lenovo, Laptop Series - Legion, Laptop Model - Lenovo Legion Slim 5i 16IRH8, Processor Brand - Intel, Processor Type - Core i5, Processor Generation - 13th (Intel), Processor Model - Core i5 13500H, Processor Base Frequency - Not Applicable, Performance-Core Base Frequency - 2.60GHz, Efficient-Core Base Frequency - 1.90GHz, Processor Max Turbo Frequency - 4.70GHz, Performance-Core Max Turbo Frequency - 4.70GHz, Efficient-Core Max Turbo Frequency - 3.50GHz, Processor Core - 12, Performance-Cores - 4, Efficient-Cores - 8, Processor Thread - 16, Processor Cache - 18MB, Chipset - Intel"
+  },
+  {
+    "image": "https://img.freepik.com/premium-psd/laptop-simple-scenario-mockup_23-2150595721.jpg?w=740",
+    "price": { "$numberDouble": "849.99" },
+    "name": "Samsung Notebook 9",
+    "configuration": "Intel Core i5, 8GB RAM, 256GB SSD",
+    "product_rating": { "$numberDouble": "4.2" },
+    "brand": "Samsung",
+    "flash_sale": false,
+    "top_category": false,
+    "description": "Laptop Brand - Lenovo, Laptop Series - Legion, Laptop Model - Lenovo Legion Slim 5i 16IRH8, Processor Brand - Intel, Processor Type - Core i5, Processor Generation - 13th (Intel), Processor Model - Core i5 13500H, Processor Base Frequency - Not Applicable, Performance-Core Base Frequency - 2.60GHz, Efficient-Core Base Frequency - 1.90GHz, Processor Max Turbo Frequency - 4.70GHz, Performance-Core Max Turbo Frequency - 4.70GHz, Efficient-Core Max Turbo Frequency - 3.50GHz, Processor Core - 12, Performance-Cores - 4, Efficient-Cores - 8, Processor Thread - 16, Processor Cache - 18MB, Chipset - Intel"
+  }
+]
