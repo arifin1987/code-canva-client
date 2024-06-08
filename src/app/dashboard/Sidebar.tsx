@@ -8,6 +8,7 @@ const navLinks = [
     path: "/dashboard/all-laptops",
     title: "All Laptops",
   },
+
   {
     path: "/",
     title: "Home",

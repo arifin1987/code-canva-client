@@ -6,6 +6,7 @@ const navitems = (
     <Link href="/">Home</Link>
     <Link href="/laptops">All Laptops</Link>
     <Link href="/dashboard">Dashboard</Link>
+    <Link href="/carts">Shopping Cart</Link>
   </>
 );
 const Navbar = () => {
